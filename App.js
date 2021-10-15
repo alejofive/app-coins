@@ -1,9 +1,10 @@
 import React from 'react';
-import TrabajoAlturas from './src/screens/TrabajoAlturas';
+
 import Home from './src/screens/Home';
+import DiaADia from './src/screens/DiaADia';
 
 export default function App() {
   return (
-    <TrabajoAlturas />
+    <DiaADia />
   );
 }
